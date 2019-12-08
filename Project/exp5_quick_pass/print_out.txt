@@ -1,0 +1,516 @@
+START RUNNING
+Initializing the star cluster and the molecular cloud...
+# Cloud: number of gas particles: 50000, total mass: 99999 MSun, virial radius: 10 pc;
+# Cluster: number of stars: 10000, total mass: 50000 MSun, virial radius: 3 pc;
+# Initial position of cluster: [-200, -200, 0] parsec; Initial velocity of cluster: [10, 10, 0] kms.
+Setting up the hydro code...
+[Star formation is considered.]
+
+Start evolving the molecular cloud...
+End time = 50.0 Myr; Diagnostic timestep = 0.5 Myr; Initial SPH timestep = 0.1 Myr.
+---------- Time = 0.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 0.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 1.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.38 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 1.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.38 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 2.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.37 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 2.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 3.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 3.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.37 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 4.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.37 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 4.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 5.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 5.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.37 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 6.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 6.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 7.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 7.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 8.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 8.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 9.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 9.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 10.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 10.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 11.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 11.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 12.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 12.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 13.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 13.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 14.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 14.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 15.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 15.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 16.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 16.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 17.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 17.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 18.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 18.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 19.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.31 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 19.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.29 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 20.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.28 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 20.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.31 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 21.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 21.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.37 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 22.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 22.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 23.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 23.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 24.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 24.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 25.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 25.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 26.0 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.36 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 26.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 27.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 27.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 28.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 28.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 29.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 29.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 30.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 30.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 31.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 31.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 32.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 32.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 33.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 33.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 34.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 34.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 35.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 35.5 Myr ----------
+Current evolve timestep: 0.04 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 36.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 36.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 37.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 37.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 38.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 38.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 39.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 39.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 40.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 40.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 41.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.35 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 41.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 42.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 42.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 43.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 43.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 44.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 44.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 45.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.32 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 45.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 46.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 46.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 47.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.32 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 47.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 48.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 48.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 49.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.33 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 49.5 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.32 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+---------- Time = 50.0 Myr ----------
+Current evolve timestep: 0.03 Myr; Shortest timescale: 0.34 Myr.
+(no high density particle has been identified in this step)
+Number of stars in `cluster`= 10000; in `stars` = 0; in `sph.dm_particles`= 10000.
+Finished.
+END RUNNING
