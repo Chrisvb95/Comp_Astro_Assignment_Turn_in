@@ -415,14 +415,17 @@ def evolve(cluster,cloud, converter_grav,converter_sph, t_end, dt_sph, dt_diag,\
             pf.write('Current evolve timestep: %.2f Myr; Shortest timescale: %.2f Myr.\n'%(dt_sph.value_in(unit_time), shortest_ts.value_in(unit_time)))
 
 
-        # considers star information
-        # (make sure that at this time, elements in 'stars' and 'sph.gas_particles' are the same)
-        if sink == True:
-            resolve_sinks(sph, stars, cloud, density_threshold, t)
-
         # evolve for one diagnostic timestep
         #grav_sph.evolve_model(t, timestep=dt_bridge)
         sph.evolve_model(t, timestep=dt_sph)
+
+        # considers star information
+        if sink == True:
+            # when the stopping condition is met, resolve star-forming events
+            # and then continue evolving the code to 't'
+            while density_limit_detection.is_set():
+                resolve_sinks(sph, stars, cloud, density_threshold, t)
+                sph.evolve_model(t, timestep=dt_sph)
 
         #channel_from_grav_to_cluster.copy()
         channel_from_sph_to_cloud.copy()
